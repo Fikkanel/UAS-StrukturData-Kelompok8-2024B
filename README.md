@@ -39,6 +39,13 @@ Sebuah aplikasi Python interaktif untuk mencari rute tercepat antar kota di Jawa
   python gpsfinal2.py
   ```
 
+## Requirements
+   ``` bash
+   colorama==0.4.6
+   networkx==3.3
+   matplotlib==3.8.4
+   ```
+
 ## 📂 Struktur Proyek
   ```bash
 ├── tsp_dijkstra.py       # File utama
